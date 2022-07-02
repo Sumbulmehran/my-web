@@ -1,0 +1,44 @@
+.img{
+height: 150px;
+width: 150px;
+margin-left: 60px;
+margin-top: 0px;
+position: fixed;
+
+}
+.text{
+    margin-left: 170px;
+    margin-top: 30px;
+    font: italic bold 25px monospace;
+    text-shadow: 5px 5px 10px rgb(248, 147, 164);
+    color: hotpink;
+    font-family: cursive;
+    outline-color: coral;
+    padding: 0;
+    outline-width: thick;
+    position: fixed;
+}
+.link{
+    font-size: medium;
+font-family: cursive;
+    margin-left: 750px;
+    margin-top: 5px;
+    position: fixed;
+}
+.size{
+    
+    width: 1350px ;
+    height: 155px;
+    background-color:crimson;
+    border: solid black;
+    position: fixed;
+}
+.design{
+    margin-left: 400px;
+    margin-top: 170px;
+    color: black;
+    font-family: monospace bold;
+    font-size: 40px;
+    animation: forwards;
+    position: fixed;
+}
